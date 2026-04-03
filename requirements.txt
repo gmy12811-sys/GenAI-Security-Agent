@@ -1,0 +1,7 @@
+streamlit
+transformers
+matplotlib
+reportlab
+langdetect
+speechrecognition
+torch
